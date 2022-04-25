@@ -12,6 +12,7 @@ tensorflow = "*"
 ipykernel = "*"
 black = "*"
 seaborn = "*"
+opencv-python = "*"
 
 [dev-packages]
 
