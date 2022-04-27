@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Files
-Labs\original_data\test
-Labs\original_data\train
+Labs/original_data/test
+Labs/original_data/train
