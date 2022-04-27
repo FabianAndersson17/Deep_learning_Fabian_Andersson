@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Files
+Labs\original_data\test
+Labs\original_data\train
