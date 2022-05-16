@@ -17,6 +17,7 @@ tensorflow-datasets = "*"
 nltk = "*"
 pyjokes = "*"
 spacy = "*"
+transformers = "*"
 
 [dev-packages]
 
